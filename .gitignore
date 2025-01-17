@@ -92,6 +92,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-/config/cluster/node_status.yaml
-/config/local/node_status.yaml
-/config/local-fs.yml
+callsyncer-export-log.txt
+/dist

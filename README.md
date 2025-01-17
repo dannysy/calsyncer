@@ -8,3 +8,8 @@
 
 - **CALDAV_URL**: URL calDAV сервера
 - **TODOIST_TOKEN**: Токен API Todoist
+
+## Сборка под linux x86_64
+
+    env GOOS=linux GOARCH=amd64 go build -o dist/calsyncer main.go
+
